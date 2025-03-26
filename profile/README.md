@@ -1,3 +1,11 @@
+<div align="center">
+  <img 
+    src="https://cdn.benzoogataga.com/lyra/LyraWebgame/lyra_banner.jpg" 
+    alt="Lyra's Banner" 
+    style="border-radius: 10px;">
+  <div>&nbsp;</div>
+</div>
+
 # MissLyra Team
 
 Welcome to the official repository for **MissLyra**, a collaborative team dedicated to the development and innovation of the **Lyra** projects. Our focus is on creating engaging web-based experiences with a combination of HTML, CSS, JS, PHP, and other technologies.
