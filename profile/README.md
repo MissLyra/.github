@@ -2,7 +2,7 @@
   <img 
     src="https://cdn.benzoogataga.com/lyra/LyraWebgame/lyra_banner.jpg" 
     alt="Lyra's Banner" 
-    style="border-radius: 10px; width: 60%;">
+    style="border-radius: 10px; width: 80%;">
   <div>&nbsp;</div>
 </div>
 
